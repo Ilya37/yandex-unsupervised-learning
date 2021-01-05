@@ -1,3 +1,3 @@
 # yandex-unsupervised-learning
-ML course
+ML MIPT Yandex course 4
 https://www.coursera.org/learn/unsupervised-learning/home/welcome
